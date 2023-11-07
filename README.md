@@ -1,11 +1,11 @@
 # Java GUI Calculator
-- Calculator made with 100% Java.
+- Calculator made with **100% Java**.
 
 ## Requirements:
 - Apache NetBeans IDE 19
 - JDK 20
 
-To open 'Java GUI Basic Calculator', open 'Calculator.java' in '\Calculator\src\MyPackage\Calculator.java' with Apache NetBeans IDE 19 w/ JDK 20 installed. Then, right click the file and choose 'Run file'.
+To open '**Java GUI Basic Calculator**', open '**Calculator.java**' in '**\Calculator\src\MyPackage\Calculator.java**' with Apache NetBeans IDE 19 w/ JDK 20 installed. Then, right click the file and choose '**Run file**'.
 
 ![image](https://github.com/LeeGoTanDump/-l-l-t-r/assets/150200964/5511cf24-e0b4-40e5-8cf6-f38cf456b098)
 
