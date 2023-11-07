@@ -1,4 +1,4 @@
-# Java GUI Calculator
+# Java GUI Basic Calculator
 - Calculator made with **100% Java**.
 
 ## Requirements:
