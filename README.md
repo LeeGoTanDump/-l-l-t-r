@@ -1,5 +1,4 @@
-# Calculator
-
+# Java GUI Calculator
 ## Requirements:
 - Apache NetBeans IDE 19
 - JDK 20
